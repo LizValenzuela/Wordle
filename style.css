@@ -1,13 +1,11 @@
 body {
     font-family: Arial, sans-serif;
     background-color:lavender;
-    background-image: url("Imagen/girl.png");
+    background-image: url("https://pixabay.com/es/vectors/ni%C3%B1a-nubes-estrellas-arte-calma-8435340/");
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
   }
-
-
      
   h1 {
     text-align: center;
